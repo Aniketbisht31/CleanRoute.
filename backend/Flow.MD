@@ -1,4 +1,4 @@
-# AutoTune AI — LangGraph Multi-Agent Pipeline
+# CleanRoute — LangGraph Multi-Agent Pipeline
 ## Complete Implementation Guide (Cut 1: Core Graph Only)
 
 > **Scope of this guide:** Build and run the full 5-agent LangGraph pipeline locally.  
