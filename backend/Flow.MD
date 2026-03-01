@@ -1154,4 +1154,4 @@ Once the graph runs end-to-end locally:
 
 ---
 
-*AutoTune AI — Cut 1 Implementation Guide | Built on LangGraph 0.2 + LangChain 0.3*
+*CleanRoute AI — Cut 1 Implementation Guide | Built on LangGraph 0.2 + LangChain 0.3*
